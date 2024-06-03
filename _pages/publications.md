@@ -5,16 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
-Using spatial multiomic assays to characterize the tumor immune microenvironment and to guide predictive modeling
-**Juho Kim**, Chong Xia, Jianjun Jiang, Yin Tang, Sarah Li, Boris Aguilar, David L Gibbs, Claudia M Ludwig, Wei Wei, Vésteinn Þórsson, Ilya Shmulevich, James R Heath
-Cancer Systems Biology Consortium (CSBC) Annual Meeting, 2023.
+Using spatial multiomic assays to characterize the tumor immune microenvironment and to guide predictive modeling \
+**Juho Kim**, Chong Xia, Jianjun Jiang, Yin Tang, Sarah Li, Boris Aguilar, David L Gibbs, Claudia M Ludwig, Wei Wei, Vésteinn Þórsson, Ilya Shmulevich, James R Heath \
+Cancer Systems Biology Consortium (CSBC) Annual Meeting, 2023
 
+Reconstructing the clonal evolution of tumors via probabilistic machine learning \
+**Juho Kim**, Nicholas Chia, Oluwasanmi Koyejo and Mohammed El-Kebir \
+Under review, 2022
 
-\item {\textbf{Juho Kim}, Nicholas Chia, Oluwasanmi Koyejo and Mohammed El-Kebir. Reconstructing the clonal evolution of tumors via probabilistic machine learning. \textit{Under Review}.}\\
+Probabilistic Subclonal Reconstruction for Cancer \
+**Juho Kim** \
+Ph.D. Thesis, 2022
 
-  %\item {\textbf{Juho Kim}. Probabilistic Subclonal Reconstruction for Cancer. \textit{PhD Thesis}, 2022.}\\
-  
-  \item {Sarah Christensen, \textbf{Juho Kim}, Nicholas Chia, Oluwasanmi Koyejo and Mohammed El-Kebir. Detecting Evolutionary Patterns of Cancers using Consensus Trees. In \textit{Bioinformatics}, 2020. Also presented in \textit{Proceedings of the European Conference on Computational Biology (ECCB)}, 2020.}\\
+Detecting Evolutionary Patterns of Cancers using Consensus Trees \
+Sarah Christensen, **Juho Kim**, Nicholas Chia, Oluwasanmi Koyejo and Mohammed El-Kebir \
+Bioinformatics, 2020. 
+Also presented in the Proceedings of the European Conference on Computational Biology (ECCB), 2020
   
   \item \textbf{Juho Kim}, Christopher Malon and Asim Kadav. Teaching Syntax by Adversarial Distraction. In \textit{Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP) Workshop on Fact Extraction and Verifiaction (FEVER)}, 2018.\\
   
