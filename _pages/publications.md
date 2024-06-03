@@ -42,7 +42,7 @@ Tech Report, 2017
 
 
 Scalable visualization of high-dimensional single-cell data \
-**Juho Kim**, Nate Russell, and Jian Peng \ 
+**Juho Kim**, Nate Russell, and Jian Peng \
 Proceedings of the Pacific Symposium on Biocomputing (PSB), 2017
 
 
