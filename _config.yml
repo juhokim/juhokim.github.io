@@ -21,7 +21,7 @@ repository               : "juhokim/juhokim.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : "jkim.jpeg"
   name             : "Juho Kim"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. machine learning & AI researcher for scientific discovery and healthcare"
