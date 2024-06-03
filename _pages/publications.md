@@ -38,7 +38,7 @@ Proceedings of the International Conference on Machine Learning (ICML) Workshop 
 
 Inferring developmental trajectories from single-cell RNA sequencing data via variational auto-encoder \
 **Juho Kim** \
-Tech Report}, 2017
+Tech Report, 2017
 
 
 Scalable visualization of high-dimensional single-cell data \
