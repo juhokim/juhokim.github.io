@@ -9,31 +9,54 @@ Using spatial multiomic assays to characterize the tumor immune microenvironment
 **Juho Kim**, Chong Xia, Jianjun Jiang, Yin Tang, Sarah Li, Boris Aguilar, David L Gibbs, Claudia M Ludwig, Wei Wei, Vésteinn Þórsson, Ilya Shmulevich, James R Heath \
 Cancer Systems Biology Consortium (CSBC) Annual Meeting, 2023
 
+
 Reconstructing the clonal evolution of tumors via probabilistic machine learning \
 **Juho Kim**, Nicholas Chia, Oluwasanmi Koyejo and Mohammed El-Kebir \
 Under review, 2022
+
 
 Probabilistic Subclonal Reconstruction for Cancer \
 **Juho Kim** \
 Ph.D. Thesis, 2022
 
+
 Detecting Evolutionary Patterns of Cancers using Consensus Trees \
 Sarah Christensen, **Juho Kim**, Nicholas Chia, Oluwasanmi Koyejo and Mohammed El-Kebir \
-Bioinformatics, 2020. 
+Bioinformatics, 2020 \
 Also presented in the Proceedings of the European Conference on Computational Biology (ECCB), 2020
-  
-  \item \textbf{Juho Kim}, Christopher Malon and Asim Kadav. Teaching Syntax by Adversarial Distraction. In \textit{Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP) Workshop on Fact Extraction and Verifiaction (FEVER)}, 2018.\\
-  
-  \item Keunwoo Choi, Deokjin Joo, and \textbf{Juho Kim}. Kapre: On-GPU Audio Preprocessing Layers for a Quick Implementation of Deep Neural Network Models with Keras. In \textit{Proceedings of the International Conference on Machine Learning (ICML) Workshop on Machine Learning for Music Discovery}, 2017.\\
 
-  \item \textbf{Juho Kim}, Nate Russell, and Jian Peng. Scalable visualization of high-dimensional single-cell data. In \textit{Proceedings of the Pacific Symposium on Biocomputing (PSB)}, 2017.\\
-  
-  \item Seunghak Yu, \textbf{Juho Kim}, Hyeyoung Min, and Sungroh Yoon. Ensemble learning can significantly improve human microRNA target prediction. \textit{Methods}, 2014.\\
-  
-  \item Seunghak Yu, \textbf{Juho Kim}, Hyeyoung Min, and Sungroh Yoon. Ensemble Learning for Robust Prediction of microRNA-mRNA Interactions. In \textit{Proceedings of the International Conference on Big Data and Smart Computing}, 2014.\\
-  
-  \item \textbf{Juho Kim}, Seunghak Yu, and Sungroh Yoon. Ensemble Algorithms for DNA Motif Finding. In \textit{Proceedings of the International Conference on Electronics, Information and Communication}, 2014.\\
-  
-  %\item {\textbf{Juho Kim}. Integration of heterogeneous single-cell datasets via  Gromov-Wasserstein optimal transport. \textit{Tech Report}, 2020.}\\
-  
-  \item \textbf{Juho Kim}. Inferring developmental trajectories from single-cell RNA sequencing data via variational auto-encoder. \textit{Tech Report}, 2017.\\
+
+Teaching Syntax by Adversarial Distraction \
+**Juho Kim**, Christopher Malon and Asim Kadav \
+Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP) Workshop on Fact Extraction and Verifiaction (FEVER), 2018
+
+
+Kapre: On-GPU Audio Preprocessing Layers for a Quick Implementation of Deep Neural Network Models with Keras \
+Keunwoo Choi, Deokjin Joo, and **Juho Kim** \
+Proceedings of the International Conference on Machine Learning (ICML) Workshop on Machine Learning for Music Discovery, 2017
+
+
+Inferring developmental trajectories from single-cell RNA sequencing data via variational auto-encoder \
+**Juho Kim** \
+Tech Report}, 2017
+
+
+Scalable visualization of high-dimensional single-cell data \
+**Juho Kim**, Nate Russell, and Jian Peng \ 
+Proceedings of the Pacific Symposium on Biocomputing (PSB), 2017
+
+
+Ensemble learning can significantly improve human microRNA target prediction \
+Seunghak Yu, **Juho Kim**, Hyeyoung Min, and Sungroh Yoon \
+Methods, 2014
+
+
+Ensemble Learning for Robust Prediction of microRNA-mRNA Interactions \
+Seunghak Yu, **Juho Kim**, Hyeyoung Min, and Sungroh Yoon \
+Proceedings of the International Conference on Big Data and Smart Computing, 2014
+
+
+Ensemble Algorithms for DNA Motif Finding \
+**Juho Kim**, Seunghak Yu, and Sungroh Yoon \
+Proceedings of the International Conference on Electronics, Information and Communication, 2014
+
