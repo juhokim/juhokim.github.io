@@ -12,7 +12,7 @@ Cancer Systems Biology Consortium (CSBC) Annual Meeting, 2023
 
 Reconstructing the clonal evolution of tumors via probabilistic machine learning \
 **Juho Kim**, Nicholas Chia, Oluwasanmi Koyejo and Mohammed El-Kebir \
-Under review, 2022
+Preprint, 2022
 
 
 Probabilistic Subclonal Reconstruction for Cancer \
