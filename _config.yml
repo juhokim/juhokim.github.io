@@ -22,9 +22,9 @@ repository               : "juhokim/juhokim.github.io"
 author:
   # Biographic information
   avatar           : "jkim.jpeg"
-  name             : "Juho Kim"
+  name             : "Juho Kim, Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. machine learning & AI researcher for scientific discovery and healthcare"
+  bio              : "Machine learning & AI researcher for scientific discovery and healthcare"
   location         : "Seattle, WA"
   employer         : #"Red Brick University"
   uri              : # URL
