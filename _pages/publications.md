@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+Detection of More than 400 CD Biomarkers and Pathway Proteins in Single Immune Cells by Cyclic MIST for Single-Cell Proteomic Studies
+Liwei Yang*, **Juho Kim***, Wei Wei and Jun Wang 
+Submitted, 2024 
+
 Using spatial multiomic assays to characterize the tumor immune microenvironment and to guide predictive modeling \
 **Juho Kim**, Chong Xia, Jianjun Jiang, Yin Tang, Sarah Li, Boris Aguilar, David L Gibbs, Claudia M Ludwig, Wei Wei, Vésteinn Þórsson, Ilya Shmulevich, James R Heath \
 Cancer Systems Biology Consortium (CSBC) Annual Meeting, 2023
