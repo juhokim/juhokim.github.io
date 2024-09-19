@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+Characterizing the tumor immune microenvironment and designing predictive modeling of melanoma using spatial multi-omic and imaging data \
+Juho Kim, Chong Xia, Muna Yase, Shuo Wang, Sai Manikonda, Pelin Garbioglu, Mohitveer Kahlon, Jianjun Jiang, Yin Tang, Sarah Li, David L Gibbs, Boris Aguilar, Heber L Rocha, Paul Macklin, Claudia M Ludwig, James R Heath, Wei Wei, Vésteinn Thorsson \
+Cancer Systems Biology Consortium (CSBC) Annual Meeting, 2024
+
+
 Detection of More than 400 CD Biomarkers and Pathway Proteins in Single Immune Cells by Cyclic MIST for Single-Cell Proteomic Studies \
 Liwei Yang\*, **Juho Kim**\*, Wei Wei and Jun Wang (\*Equal Contribution)\
 Submitted, 2024 
