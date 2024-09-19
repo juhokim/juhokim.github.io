@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Detection of More than 400 CD Biomarkers and Pathway Proteins in Single Immune Cells by Cyclic MIST for Single-Cell Proteomic Studies \
-Liwei Yang$\times$, **Juho Kim**$\times$, Wei Wei and Jun Wang ($\times$Equal Contribution)\
+Liwei Yang\*, **Juho Kim**\*, Wei Wei and Jun Wang (\*Equal Contribution)\
 Submitted, 2024 
 
 Using spatial multiomic assays to characterize the tumor immune microenvironment and to guide predictive modeling \
