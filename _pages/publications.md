@@ -10,6 +10,16 @@ SpatialNP: Gridded Transformer Neural Processes for Probabilistic Spatial Proteo
 International Conference on Machine Learning (ICML) Workshop on Structured Probabilistic Inference & Generative Modeling, 2026
 
 
+Personalizing Cancer Models under Data Scarcity via Parameter Decomposition \ 
+Logan Rose, Jonathan Martinez, **Juho Kim**, Jing Qin, Boris Aguilar, David Murrugarra \
+Preprint, 2026
+
+
+Using spatial multi-omic assays to explore sequential therapy approaches for melanoma \
+**Juho Kim**\*, Chong Xia\*, Shuo Wang, Jianjun Jiang, Yin Tang, Sarah Li, David L Gibbs, Boris Aguilar, Heber L Rocha, Paul Macklin, Claudia M Ludwig, Ilya Shmulevich, Wei Wei, Vésteinn Thorsson, James R Heath \
+Cancer Systems Biology Consortium (CSBC) Annual Meeting, 2025
+
+
 Characterizing the tumor microenvironment and designing predictive modeling of melanoma using spatial multi-omic and imaging data \
 **Juho Kim**, Chong Xia, Muna Yase, Shuo Wang, Sai Manikonda, Pelin Garbioglu, Mohitveer Kahlon, Jianjun Jiang, Yin Tang, Sarah Li, David L Gibbs, Boris Aguilar, Heber L Rocha, Paul Macklin, Claudia M Ludwig, James R Heath, Wei Wei, Vésteinn Thorsson \
 Cancer Systems Biology Consortium (CSBC) Annual Meeting, 2024
