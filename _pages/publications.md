@@ -10,7 +10,7 @@ SpatialNP: Gridded Transformer Neural Processes for Probabilistic Spatial Proteo
 International Conference on Machine Learning (ICML) Workshop on Structured Probabilistic Inference & Generative Modeling, 2026
 
 
-Personalizing Cancer Models under Data Scarcity via Parameter Decomposition \ 
+Personalizing Cancer Models under Data Scarcity via Parameter Decomposition \
 Logan Rose, Jonathan Martinez, **Juho Kim**, Jing Qin, Boris Aguilar, David Murrugarra \
 Preprint, 2026
 
