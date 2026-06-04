@@ -7,7 +7,7 @@ author_profile: true
 
 SpatialNP: Gridded Transformer Neural Processes for Probabilistic Spatial Proteomics in Multiplexed Tissue Imaging \
 **Juho Kim** \
-International Conference on Machine Learning (ICML) Workshop on Structured Probabilistic Inference \& Generative Modeling, 2026
+International Conference on Machine Learning (ICML) Workshop on Structured Probabilistic Inference & Generative Modeling, 2026
 
 
 Characterizing the tumor microenvironment and designing predictive modeling of melanoma using spatial multi-omic and imaging data \
